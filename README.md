@@ -1,6 +1,14 @@
-### Hi there 👋
-
 <!--
+# Hi there, I'm [Davide][mywebsite] 👋
+
+I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
+
+- 🌱 I'm currently learning: Google Cloud Platform
+- 📫 How to reach me: [d.decataldo@hotmail.com][mailto:d.decataldo@hotmail.com]
+- 🧑🏻‍💻 Open to work in Oslo area
+
+
+
 **davidedeca/davidedeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[mywebsite]: http://websiteexampledd.wuaze.com/
