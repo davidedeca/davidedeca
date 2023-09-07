@@ -1,3 +1,41 @@
+[badge_c]: https://img.shields.io/badge/C-blue.svg?logo=c
+
+[badge_cpp]: https://img.shields.io/badge/C++-black.svg?logo=cplusplus
+
+[badge_python]: https://img.shields.io/badge/Python-black.svg?logo=python
+
+[badge_fortran]: https://img.shields.io/badge/Fortran-black.svg?logo=fortran
+
+[badge_bash]: https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash
+
+[badge_ansible]: https://img.shields.io/badge/Ansible-black.svg?logo=ansible
+
+[badge_docker]: https://img.shields.io/badge/Docker-black.svg?logo=docker
+
+[badge_kubernetes]: https://img.shields.io/badge/kubernetes-black.svg?logo=kubernetes
+
+[badge_sklearn]: https://img.shields.io/badge/ScikitLearn-black.svg?logo=scikitlearn
+
+[badge_keras]: https://img.shields.io/badge/Keras-black.svg?logo=keras
+
+[badge_tensorflow]: https://img.shields.io/badge/TensorFlow-black.svg?logo=tensorflow
+
+[badge_numpy]: https://img.shields.io/badge/NumPy-black.svg?logo=numpy
+
+[badge_pandas]: https://img.shields.io/badge/Pandas-black.svg?logo=pandas
+
+[badge_scipy]: https://img.shields.io/badge/SciPy-black.svg?logo=scipy
+
+[badge_mysql]: https://img.shields.io/badge/mySQL-black.svg?logo=mysql
+
+[badge_jupyter]: https://img.shields.io/badge/Jupyter-black.svg?logo=jupyter
+
+[badge_latex]: https://img.shields.io/badge/LaTex-black.svg?logo=latex
+
+[badge_markdown]: https://img.shields.io/badge/Markdown-black.svg?logo=markdown
+
+
+
 
 <!---
 
@@ -30,8 +68,27 @@ I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 
 
 
-[mywebsite]: http://websiteexampledd.wuaze.com/
+[mywebsite]: http://davidedecataldo.me
 [notion]: 
 [resume]: 
+
+[badge_c]: https://img.shields.io/badge/C-blue.svg?logo=c
+[badge_cpp]: https://img.shields.io/badge/C++-black.svg?logo=cplusplus
+[badge_python]: https://img.shields.io/badge/Python-black.svg?logo=python
+[badge_fortran]: https://img.shields.io/badge/Fortran-black.svg?logo=fortran
+[badge_bash]: https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash
+[badge_ansible]: https://img.shields.io/badge/Ansible-black.svg?logo=ansible
+[badge_docker]: https://img.shields.io/badge/Docker-black.svg?logo=docker
+[badge_kubernetes]: https://img.shields.io/badge/kubernetes-black.svg?logo=kubernetes
+[badge_sklearn]: https://img.shields.io/badge/ScikitLearn-black.svg?logo=scikitlearn
+[badge_keras]: https://img.shields.io/badge/Keras-black.svg?logo=keras
+[badge_tensorflow]: https://img.shields.io/badge/TensorFlow-black.svg?logo=tensorflow
+[badge_numpy]: https://img.shields.io/badge/NumPy-black.svg?logo=numpy
+[badge_pandas]: https://img.shields.io/badge/Pandas-black.svg?logo=pandas
+[badge_scipy]: https://img.shields.io/badge/SciPy-black.svg?logo=scipy
+[badge_mysql]: https://img.shields.io/badge/mySQL-black.svg?logo=mysql
+[badge_jupyter]: https://img.shields.io/badge/Jupyter-black.svg?logo=jupyter
+[badge_latex]: https://img.shields.io/badge/LaTex-black.svg?logo=latex
+[badge_markdown]: https://img.shields.io/badge/Markdown-black.svg?logo=markdown
 
 -->
