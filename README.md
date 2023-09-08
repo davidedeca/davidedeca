@@ -11,13 +11,13 @@ I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 
 # Get in touch! 
 
-[![imgname](./img/mail.png)](mailto:d.decataldo@hotmail.com)
+[![imgname](./img/icons8-envelope-48.png)](mailto:d.decataldo@hotmail.com)
 &nbsp;&nbsp;
-[![imgname](./img/globe.png)](https://davidedecataldo.me)
+<img src="./img/icons8-globe-50.png" alt="image" align="top" width="30" height="30">
 &nbsp;&nbsp;
-[![imgname](./img/linkedin.png)](https://www.linkedin.com/in/davide-decataldo-325690168/)
+[![imgname](./img/icons8-linkedin-48.png)](https://www.linkedin.com/in/davide-decataldo-325690168/)
 &nbsp;&nbsp;
-[![imgname](./img/instagram.png)](https://www.instagram.com/_davedc/)
+[![imgname](./img/icons8-instagram-48.png)](https://www.instagram.com/_davedc/)
 
 
 
