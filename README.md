@@ -4,8 +4,8 @@ I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 
 - 🧑🏻‍💻 Open to work in Oslo area
 - 🌱 I'm currently learning **Google Cloud Platform**
-- 🗒 I like to write learning technical notebooks on [Notion][notion] 
-- 📫 How to reach me: [d.decataldo@hotmail.com][mailto:d.decataldo@hotmail.com]
+- 🗒 I like to write learning technical notebooks on **[Notion][notion]**
+- 📫 How to reach me: d.decataldo@hotmail.com
 - 📝 Download my [resume][resume]
 
 
@@ -13,7 +13,7 @@ I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 
 [![imgname](./img/icons8-envelope-48.png)](mailto:d.decataldo@hotmail.com)
 &nbsp;&nbsp;
-<img src="./img/icons8-globe-50.png" alt="image" align="top" width="30" height="30">
+[![imgname](./img/icons8-globe-40.png)](https://www.davidedecataldo.me)
 &nbsp;&nbsp;
 [![imgname](./img/icons8-linkedin-48.png)](https://www.linkedin.com/in/davide-decataldo-325690168/)
 &nbsp;&nbsp;
@@ -37,6 +37,7 @@ I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 ![badge_ansible](https://img.shields.io/badge/Ansible-black.svg?logo=ansible)
 ![badge_docker](https://img.shields.io/badge/Docker-black.svg?logo=docker)
 ![badge_kubernetes](https://img.shields.io/badge/kubernetes-black.svg?logo=kubernetes)
+![badge_mpi](https://custom-icon-badges.herokuapp.com/badge/MPI-black.svg?logo=mpi)
 
 #### Machine Learning
 
@@ -63,6 +64,6 @@ I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 
 [mywebsite]: http://davidedecataldo.me
 [notion]: 
-[resume]: 
+[resume]:  
 
 
