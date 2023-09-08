@@ -26,17 +26,17 @@ I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 #### Coding languages
 
 ![badge_python](https://img.shields.io/badge/Python-black.svg?logo=python)
-![badge_c](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&amp;logoColor=white)
+![badge_c](https://custom-icon-badges.herokuapp.com/badge/C-black.svg?logo=c-in-hexagon&amp;logoColor=white)
 ![badge_cpp](https://img.shields.io/badge/C++-black.svg?logo=cplusplus)
 ![badge_fortran](https://img.shields.io/badge/Fortran-black.svg?logo=fortran)
 ![badge_bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash)
-![badge_sql](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white)
+![badge_sql](https://custom-icon-badges.herokuapp.com/badge/SQL-black.svg?logo=database&amp;logoColor=white)
 
 #### DevOps tools
 ![badge_ansible](https://img.shields.io/badge/Git-black.svg?logo=git)
 ![badge_ansible](https://img.shields.io/badge/Ansible-black.svg?logo=ansible)
 ![badge_docker](https://img.shields.io/badge/Docker-black.svg?logo=docker)
-![badge_kubernetes](https://img.shields.io/badge/kubernetes-black.svg?logo=kubernetes)
+![badge_kubernetes](https://img.shields.io/badge/kubernetes-black.svg?logo=Kubernetes)
 ![badge_mpi](https://custom-icon-badges.herokuapp.com/badge/MPI-black.svg?logo=mpi)
 
 #### Machine Learning
