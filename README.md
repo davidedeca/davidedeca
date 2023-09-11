@@ -6,8 +6,6 @@ I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 - 🌱 I'm currently learning **Google Cloud Platform**
 - 🗒 I like to write learning technical notebooks on **[Notion][notion]**
 - 📫 How to reach me: d.decataldo@hotmail.com
-- 📝 Download here my [resume](https://drive.google.com/file/d/1A_soLvniiF8Skugh9qKvPSdZSPfiMDIu/view?usp=sharing)
-
 
 # Get in touch! 
 
