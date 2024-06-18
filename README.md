@@ -1,12 +1,5 @@
 # Hi there, I'm Davide 👋
 
-[comment]: <> I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
-
-[comment]: <> - 🧑🏻‍💻 Open to work in Oslo area
-[comment]: <> - 🌱 I'm currently learning **Google Cloud Platform**
-[comment]: <> - 🗒 I like to write learning technical notebooks on **[Notion][notion]**
-[comment]: <> - 📫 How to reach me: d.decataldo@hotmail.com
-
 # Get in touch! 
 
 [![imgname](./img/icons8-envelope-48.png)](mailto:d.decataldo@hotmail.com)
