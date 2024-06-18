@@ -1,11 +1,11 @@
-# Hi there, I'm [Davide][mywebsite] 👋
+# Hi there, I'm Davide 👋
 
-I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
+<> I am a Data Scientist with background in Astrophysics, based in Oslo, Norway.
 
-- 🧑🏻‍💻 Open to work in Oslo area
-- 🌱 I'm currently learning **Google Cloud Platform**
-- 🗒 I like to write learning technical notebooks on **[Notion][notion]**
-- 📫 How to reach me: d.decataldo@hotmail.com
+<> - 🧑🏻‍💻 Open to work in Oslo area
+<> - 🌱 I'm currently learning **Google Cloud Platform**
+<> - 🗒 I like to write learning technical notebooks on **[Notion][notion]**
+<> - 📫 How to reach me: d.decataldo@hotmail.com
 
 # Get in touch! 
 
